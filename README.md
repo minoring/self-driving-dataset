@@ -17,6 +17,7 @@ KITTI (Karlsruhe Institute of Technology and Toyota Technological Institute)는 
 ### 환경설정
 - `cd lanenet-lane-detection`
 - `pip install -r requirements.txt`
+- [lanenet 리포지토리](https://github.com/MaybeShewill-CV/lanenet-lane-detection) 에서 필요한 데이터 다운로드
 
  ### 명령어
 ```python
